@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "silex/silex": "1.0.*@dev",
+        "silex/silex": "1.2.*",
         "nercury/symfony2-stream-response": "dev-master",
         "codeplex/phpexcel": "1.7.8"
     },
