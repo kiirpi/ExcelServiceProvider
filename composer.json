@@ -11,7 +11,7 @@
     ],
     "require": {
         "silex/silex": "1.2.*",
-        "nercury/symfony2-stream-response": "dev-master",
+        "nercury/symfony2-stream-response": "1.0",
         "codeplex/phpexcel": "1.7.8"
     },
     "autoload": {
