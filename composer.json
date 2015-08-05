@@ -12,7 +12,7 @@
     "require": {
         "silex/silex": "1.2.*",
         "nercury/symfony2-stream-response": "1.0",
-        "codeplex/phpexcel": "1.7.8"
+        "phpoffice/phpexcel": "1.8"
     },
     "autoload": {
         "psr-0": { "Jaza": "src" }
