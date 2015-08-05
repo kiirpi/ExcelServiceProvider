@@ -12,7 +12,7 @@ I've only implemented Excel5 support, and I doubt that I will implement the othe
 
 ``` 
     "require" : {
-        "jaza/excel-service-provider": "1.0.*@dev",
+        "kiirpi/excel-service-provider": "1.0.*@dev",
     }
 ``` 
  
