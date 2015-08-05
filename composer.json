@@ -1,12 +1,12 @@
 {
-    "name": "jaza/excel-service-provider",
+    "name": "kiirpi/excel-service-provider",
     "description": "An Excel ServiceProvider for Silex.",
     "keywords": ["silex"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Jeremy Epstein",
-            "email": "jazepstein@greenash.net.au"
+            "name": "Ugur Okumus",
+            "email": "kiirpisifre@gmail.com"
         }
     ],
     "require": {
